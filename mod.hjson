@@ -1,0 +1,7 @@
+name: "cooltracks"
+displayName: "This isn't a mod."
+author: Pear
+description: "ok"
+version: "1.0"
+minGameVersion: "110"
+hidden: false
